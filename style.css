@@ -2,9 +2,23 @@
   max-width: 960px;
   margin: 20px auto;
 }
+
 h1  {
-color: red;
+color: blue;
 text-align: center;
+font-size: 75px;
+}
 
 
+section {
+ height: 100vh;
+ text-align: center;
+ color: blue;
+ font-size: 75px;
+}
+
+footer {
+ text-align: center;
+ color: blue;
+ font-size: 50px;
 }
